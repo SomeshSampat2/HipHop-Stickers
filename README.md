@@ -1,10 +1,9 @@
 # HipHop Sticker Apps for WhatsApp
 
 HipHop Stickes on Google Playstore - [Download](https://play.google.com/store/apps/details?id=com.stickers.hiphopstickers)
-
-
-
-![1](https://user-images.githubusercontent.com/68007331/118635098-d647dd00-b7f0-11eb-9eb9-3f9d268b75ba.gif) &nbsp; ![2](https://user-images.githubusercontent.com/68007331/118635158-e3fd6280-b7f0-11eb-9839-d04b9218e3ea.gif) &nbsp; ![3](https://user-images.githubusercontent.com/68007331/118635172-e95aad00-b7f0-11eb-97ab-ebc99de917dd.gif)
+&nbsp;
+&nbsp;
+![01](https://user-images.githubusercontent.com/68007331/118637153-1b6d0e80-b7f3-11eb-9006-e361f44b8684.gif) &nbsp; &nbsp; ![02](https://user-images.githubusercontent.com/68007331/118637177-2162ef80-b7f3-11eb-8b97-8e6c44d5c39f.gif) &nbsp; &nbsp; ![03](https://user-images.githubusercontent.com/68007331/118637187-245de000-b7f3-11eb-9093-165e1d926666.gif)
 
 
 ## Overview
