@@ -1,4 +1,10 @@
-# Android Stickers Apps for WhatsApp
+# HipHop Sticker Apps for WhatsApp
+
+Google Playstore - [Download](https://play.google.com/store/apps/details?id=com.stickers.hiphopstickers)
+
+![1](https://user-images.githubusercontent.com/68007331/118635098-d647dd00-b7f0-11eb-9eb9-3f9d268b75ba.gif) &bsp; &nbsp; ![2](https://user-images.githubusercontent.com/68007331/118635158-e3fd6280-b7f0-11eb-9839-d04b9218e3ea.gif) &nbsp; &nbsp; ![3](https://user-images.githubusercontent.com/68007331/118635172-e95aad00-b7f0-11eb-97ab-ebc99de917dd.gif)
+
+
 ## Overview
 
 If you would like to design your own stickers for WhatsApp, you can package them in an Android app. You will need to distribute your app via the Google Play Store or another mechanism. Users who download and install your sticker app will be able to add your stickers to their WhatsApp sticker picker/tray, and start sending those stickers from within WhatsApp. A separate app is necessary and it will reside on your phone's home screen just like any other app. Stickers on WhatsApp must be legal, authorized, and acceptable. Learn more about acceptable use of our services at https://www.whatsapp.com/legal/#terms-of-service.
