@@ -1,5 +1,4 @@
 # Android Stickers Apps for WhatsApp
-https://user-images.githubusercontent.com/83895108/118626942-eb207280-b7e8-11eb-9907-078bef3c4b80.mp4
 ## Overview
 
 If you would like to design your own stickers for WhatsApp, you can package them in an Android app. You will need to distribute your app via the Google Play Store or another mechanism. Users who download and install your sticker app will be able to add your stickers to their WhatsApp sticker picker/tray, and start sending those stickers from within WhatsApp. A separate app is necessary and it will reside on your phone's home screen just like any other app. Stickers on WhatsApp must be legal, authorized, and acceptable. Learn more about acceptable use of our services at https://www.whatsapp.com/legal/#terms-of-service.
