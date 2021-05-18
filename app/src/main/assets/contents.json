@@ -1,0 +1,2607 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "Badshah",
+      "name": "Badshah Sticker Pack",
+      "publisher": ".",
+      "tray_image_file": "Badshah 15.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Badshah 15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 20.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 21.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 22.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 23.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 24.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Badshah 25.webp",
+          "emojis": ["☕","🙂"]
+        }
+
+      ]
+    },{
+      "identifier": "Raftaar",
+      "name": "Raftaar Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "Raftaar1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Raftaar1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raftaar17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raftaar3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raftaar4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raftaar5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raftaar6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raftaar7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raftaar8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raftaar9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raftaar10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raftaar12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raftaar15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raftaar2.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Mr Nair",
+      "name": "Mr Nair Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "MRNair3.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "MRNair3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "MRNair7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "MRNair1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "MRNair4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "MRNair5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "MRNair6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "MRNair2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "MRNair8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "MRNair9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "MRNair10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "MRNair11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "MRNair12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "MRNair13.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Emiway Bantai",
+      "name": "Emiway Bantai Sticker Pack",
+      "publisher": ".",
+      "tray_image_file": "Emiway14.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Emiway14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway20.webp",
+          "emojis": ["☕","🙂"]
+        }
+
+      ]
+    },{
+      "identifier": "Emiway Bantai 2",
+      "name": "Emiway Bantai Sticker Pack 2",
+      "publisher": ".",
+      "tray_image_file": "Emiway16.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Emiway16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway20.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway21.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway22.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway23.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway24.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway25.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Emiway26.webp",
+          "emojis": ["☕","🙂"]
+        }
+
+      ]
+    },{
+      "identifier": "Divine",
+      "name": "Divine Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "Divine4.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Divine4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine13.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Divine 2",
+      "name": "Divine Stickers Pack 2",
+      "publisher": ".",
+      "tray_image_file": "Divine14.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Divine14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine20.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine21.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine22.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine23.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine24.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Divine25.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Krsna",
+      "name": "Kr$na Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "Krsna5.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "Krsna5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna12.webp",
+          "emojis": ["☕","🙂"]
+        }
+
+      ]
+    },{
+      "identifier": "Krsna 2",
+      "name": "Kr$na Stickers Pack 2",
+      "publisher": ".",
+      "tray_image_file": "Krsna18.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "Krsna18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Krsna19.webp",
+          "emojis": ["☕","🙂"]
+        }
+
+      ]
+    },{
+      "identifier": "Karma",
+      "name": "Karma Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "Karma24.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "Karma24.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma20.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma21.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma22.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma23.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Karma2.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Harjas",
+      "name": "Harjas Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "Harjas9.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Harjas9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Harjas18.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Dino James",
+      "name": "Dino James Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "dino1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "dino1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino25.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino20.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino21.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino22.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino23.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dino24.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Fotty 7",
+      "name": "Fotty Seven Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "Fotty3.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Fotty3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fotty17.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Mufaad",
+      "name": "Mufaad Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "Mufaad5.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Mufaad5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Mufaad2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Mufaad3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Mufaad1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Mufaad6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Mufaad7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Mufaad8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Mufaad9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Mufaad10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Mufaad11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Mufaad4.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Brodha V",
+      "name": "Brodha V Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "BrodhaV3.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "BrodhaV3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "BrodhaV2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "BrodhaV1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "BrodhaV4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "BrodhaV5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "BrodhaV6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "BrodhaV7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "BrodhaV8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "BrodhaV9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "BrodhaV10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "BrodhaV11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "BrodhaV12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "BrodhaV13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "BrodhaV14.webp",
+          "emojis": ["☕","🙂"]
+        }
+
+      ]
+    },{
+      "identifier": "Bali",
+      "name": "Bali Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "Bali4.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Bali4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Bali6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Bali1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Bali5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Bali2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Bali7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Bali8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Bali9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Bali10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Bali11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Bali12.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "EPR",
+      "name": "EPR Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "epr1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "epr1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "epr2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "epr3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "epr4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "epr5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "epr6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "epr7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "epr8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "epr9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "epr10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "epr11.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Naezy",
+      "name": "Naezy Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "naezy1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "naezy1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy20.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy21.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy22.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy23.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy24.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy25.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy26.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy27.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy28.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy29.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "naezy30.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Raga",
+      "name": "Raga Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "Raga2.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Raga2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga20.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Raga21.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "King",
+      "name": "King Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "King1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "King9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King20.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King21.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King22.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King23.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King24.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "King25.webp",
+          "emojis": ["☕","🙂"]
+        }
+
+      ]
+    },{
+      "identifier": "Stan",
+      "name": "MC Stan Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "Stan13.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Stan13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Stan3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Stan1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Stan4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Stan5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Stan6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Stan7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Stan8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Stan9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Stan10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Stan11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Stan12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Stan2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Stan13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Stan14.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Rohan",
+      "name": "Rohan Cariappa Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "rohan1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "rohan1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rohan2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rohan3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rohan4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rohan5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rohan6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rohan7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rohan8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rohan9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rohan10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rohan11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rohan12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rohan13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rohan14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rohan15.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Seedhe Maut",
+      "name": "Seedhe Maut Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "SM3.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "SM3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "SM19.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "T7",
+      "name": "T.7 Lifestyle Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "t71.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "t71.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t72.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t73.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t74.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t75.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t76.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t77.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t78.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t79.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t710.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t711.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t712.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t713.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t714.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t715.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t716.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t717.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t718.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t719.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "t720.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Younge Stunners",
+      "name": "Young Stunners Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "YS3.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "YS3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "YS19.webp",
+          "emojis": ["☕","🙂"]
+        }
+
+      ]
+    },{
+      "identifier": "Rap Demon",
+      "name": "Rap Demon Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "Demon8.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Demon8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Demon9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Demon3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Demon4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Demon5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Demon6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Demon7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Demon1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Demon2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Demon10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Demon11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Demon12.webp",
+          "emojis": ["☕","🙂"]
+        }
+
+      ]
+    },{
+      "identifier": "Loka",
+      "name": "Loka Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "Loka3.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Loka3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Loka19.webp",
+          "emojis": ["☕","🙂"]
+        }
+
+      ]
+    },{
+      "identifier": "DEvil",
+      "name": "D'Evil Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "DEvil18.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "DEvil18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "DEvil2.webp",
+          "emojis": ["☕","🙂"]
+        }
+
+
+      ]
+    },{
+      "identifier": "Void",
+      "name": "Void Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "void1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "void1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "void2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "void3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "void4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "void5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "void6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "void7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "void8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "void9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "void10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "void11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "void12.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },{
+      "identifier": "Afaik",
+      "name": "AFAIK Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "afaik1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "afaik1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "afaik2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "afaik3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "afaik4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "afaik5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "afaik6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "afaik7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "afaik8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "afaik9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "afaik10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "afaik11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "afaik12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "afaik13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "afaik14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "afaik15.webp",
+          "emojis": ["☕","🙂"]
+        }
+
+      ]
+    },{
+      "identifier": "Dhruv",
+      "name": "Dhruv Sthetick Stickers Pack",
+      "publisher": ".",
+      "tray_image_file": "dhruv1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"1usedforeverythinga@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "dhruv1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv2.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv3.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv5.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv6.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv7.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv8.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv9.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv10.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv12.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv14.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv15.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv16.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv17.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv18.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "dhruv20.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    }
+  ]
+}
