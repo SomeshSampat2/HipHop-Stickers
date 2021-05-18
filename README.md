@@ -5,14 +5,6 @@
 
 ## Overview
 
-If you would like to design your own stickers for WhatsApp, you can package them in an Android app. You will need to distribute your app via the Google Play Store or another mechanism. Users who download and install your sticker app will be able to add your stickers to their WhatsApp sticker picker/tray, and start sending those stickers from within WhatsApp. A separate app is necessary and it will reside on your phone's home screen just like any other app. Stickers on WhatsApp must be legal, authorized, and acceptable. Learn more about acceptable use of our services at https://www.whatsapp.com/legal/#terms-of-service.
-
-The sample code provides a simple way for you to drop in your sticker art and build an Android app with minimal development or coding experience needed. For advanced developers looking to make richer sticker apps, refer to the section [Advanced Development](#advanced-development) below.
-
-We recommend you create a version of your sticker app for iOS as well to give users of WhatsApp on iOS an opportunity to download your sticker app as well.
-## Sticker art and app requirements
-We recommend you refer to the FAQ at https://faq.whatsapp.com/general/26000226 for complete details on how to properly create your sticker art. This FAQ also contains a sample PSD that demonstrates best practices for composing legible, rich sticker art.
-
 * A sticker is an image that has a transparent background and can be sent in a
   WhatsApp chat
 * Stickers are organized into "packs". Your app can contain anywhere from 1 to
@@ -55,26 +47,9 @@ If you would like to create a sticker app using the sample app, you only have to
 * Navigate to SampleStickerApp/app/src/main/assets in Android Studio. 
 * Inside the assets folder, folder 1 contains a number of sample sticker art files. Replace these with your own sticker files.
 * Also replace the sample tray icon PNG with your own tray icon. 
-* If you'd like to have more than 1 sticker pack in your app, simply create a folder named "2" or "3", etc. within the assets folder and place your art and tray icon in there. 
+* If you'd like to have more than 1 sticker pack in your app, simply create a folder named "2" or "3", etc. within the assets folder and place your art and tray icon in there.  
 
-### Modifying the contents.json file
-You must also modify the contents.json file in SampleStickerApp/app/src/main/assets. Replace the values of the metadata with your own. A few notes:
-
-* `name`: the sticker pack's name (128 characters max)
-* `identifier`: The identifier should be unique and can be alphanumeric: a-z, A-Z, 0-9, and the following characters are also allowed "_", "-", "." and " ". The identifier should be less than 128 characters.
-* `publisher`: name of the publisher of the pack (128 characters max)
-* Replace the "image_file" value with the file name of your sticker image. It must have both the file name and extension. The ordering of the files in the JSON will dictate the ordering of your stickers in your pack. 
-* `image_data_version` : an overall representation of the version of the stickers and tray icon. When you update stickers or tray icon in your pack, please update this string, this will tell WhatsApp that the pack has new content and update the stickers on WhatsApp side.
-* `avoid_cache` : this tells WhatsApp that the stickers from your pack should not be cached. By default, you should keep it false. Exception is that if your app updates stickers without user actions, you can keep it true, for example: your app provides clock sticker that updates stickers every minute.
-* `android_play_store_link` and `ios_app_store_link` (optional fields): here you can put the URL to your sticker app in the Google Play Store and Apple App Store (if you have an iOS version of your sticker app). If you provide these URLs, users who receive a sticker from your app in WhatsApp can tap on it to view your sticker app in the respective App Stores. On Android, the URL follows the format https://play.google.com/store/apps/details?id=stickers where "stickers" is your app's package name.
-* `emojis` (required): add up to 1-3 emojis for each sticker file. Select emoji that best describe or represent that sticker file. For example, if the sticker is portraying love, you may choose to add a heart emoji like 💕. If your sticker portrays pizza, you may want to add the pizza slice emoji 🍕. In the future, WhatsApp will support a search function for stickers and tagging your sticker files with emoji will enable that. The sticker picker/tray in WhatsApp today already categorizes stickers into emotion categories (love, happy, sad, and angry) and it does this based on the emoji you tag your stickers with.
-
-The following fields are optional: `ios_app_store_link`, `android_play_store_link`, `publisher_website`, `privacy_policy_website`, `license_agreement_website`
-All the links need to start with either "http" or "https"
-
-If your app has more than 1 sticker pack, you will need to reference it in contents.json. Simply create a second array within the "sticker_packs" section of the JSON and include all the metadata (name, identifier, etc) along with all the references to the sticker files. 
-
-### Build the sample app
+### Build the app
 Before building your app, you will need to do the following: 
 
 * Make sure to change the app's icon (i.e. launcher icon) that will be displayed on the home screens of users who install your app. The icons are contained in SampleStickerApp/app/src/main/res in each of the folders beginning with mipmap (e.g. mipmap-xhdpi or mipmap-xxxhdpi). For a simple way to create these icons, you can use Android Image Asset Studio which is built into Android Studio. See https://developer.android.com/studio/write/image-asset-studio#access for more information on how to run this tool and read the section [here](https://developer.android.com/studio/write/image-asset-studio#create-adaptive) for information on how to use the tool to create your app's launcher icons.
@@ -91,10 +66,6 @@ You need to build a release version of your app for submission to the Google Pla
 Importantly, when naming your app, it is strongly advised you do *not* use "WhatsApp" anywhere in the name of your app or in the name field of your app listing on the Google Play Store. However, when preparing your app for submission in Google Play Store, you'll have the option to add description associated with your app and it's okay to mention WhatsApp in the description. WhatsApp can also launch the Google Play Store and perform a search for other sticker pack apps. To help your app appear in this list, also add the keyword WAStickerApps to app's description when setting up your app in the Google Play Store console. You can use additional keywords, but make sure you at least use this one.
 
 To submit your app to the Google Play Store, follow the instructions here: https://developer.android.com/distribute/best-practices/launch/. 
-
-It is advised that you create Multiple APKs per ABI (CPU Architecture), it will make the published app size smaller. see https://developer.android.com/studio/build/configure-apk-splits for more information. In order to do that, uncomment the lines 47-52 in app/build.gradle line.
-## Advanced development
-For advanced developers looking to make richer sticker apps, follow the instructions below.
 
 ### Overview
 
