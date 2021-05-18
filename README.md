@@ -1,8 +1,7 @@
 # Android Stickers Apps for WhatsApp
+![Screenshot_20210518-143124_Hip Hop Stickers](https://user-images.githubusercontent.com/83895108/118623617-0ccc2a80-b7e6-11eb-927e-c3c3a5efbe2e.jpg)
 
-https://user-images.githubusercontent.com/83895108/118623617-0ccc2a80-b7e6-11eb-927e-c3c3a5efbe2e.jpg
-
-https://user-images.githubusercontent.com/83895108/118623662-181f5600-b7e6-11eb-843c-4ada2326cad4.jpg
+![Screenshot_20210518-143209_Hip Hop Stickers](https://user-images.githubusercontent.com/83895108/118623662-181f5600-b7e6-11eb-843c-4ada2326cad4.jpg)
 
 ## Overview
 
